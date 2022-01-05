@@ -1,5 +1,5 @@
-let suma = 0;
+let sum = 0;
 for (let i = 1; i <= 100; i++) {
-    suma = suma + i;
+    sum = sum + i;
 }
-console.log(suma);
+console.log(sum);
